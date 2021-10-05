@@ -89,4 +89,5 @@ Run the following command to evaluate the existing checkpoint:
 ```
 python train.py --only_test --load_ckpt {CHECKPOINT_PATH} {OTHER_ARGS}
 ```
+test commit
 
